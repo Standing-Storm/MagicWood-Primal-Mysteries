@@ -1,0 +1,10 @@
+[
+  {
+    "type": "skill",
+    "id": "spellcraft",
+    "name": "occult",
+    "display_category": "display_ranged",
+    "sort_rank": 14500,
+    "description": "Your skill in matters of the Otherworlds.  Used to research mystical phenomenon and learn sorcery."
+  }
+]

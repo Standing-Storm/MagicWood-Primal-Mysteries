@@ -1,0 +1,10 @@
+[
+  {
+    "id": "glow_dust",
+    "copy-from": "glow_dust",
+    "type": "GENERIC",
+    "color": "light_gray",
+    "name": { "str": "lantern dust" },
+    "description": "The remnants of a ghost lantern, a thin grey powder that seems to glow under the light of the moon."
+  }
+]

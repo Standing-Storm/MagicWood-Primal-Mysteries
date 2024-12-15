@@ -1,0 +1,10 @@
+[
+  {
+    "id": "druid_natures_commune",
+    "type": "SPELL",
+    "name": "Communion with Nature",
+    "copy-from": "druid_natures_commune",
+    "description": "You focus on the bounty of nature around you and commune with it, improving your health and mood and calming nearby wildlife.  This spell may only be cast outdoors.",
+    "spell_class": "FOREST_INITIATE"
+  }
+]

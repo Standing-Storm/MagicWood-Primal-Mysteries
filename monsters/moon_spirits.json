@@ -1,0 +1,9 @@
+[
+  {
+    "id": "mon_wisp",
+    "type": "MONSTER",
+    "copy-from": "mon_wisp",
+    "name": "ghost lantern",
+    "description": "A patch of luminous air, glowing green or silver or a soft blue.  It moves randomly, its lights changing colors in an indecipherable pattern."
+  }
+]

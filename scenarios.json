@@ -1,0 +1,65 @@
+[
+  {
+    "type": "scenario",
+    "id": "evacuee",
+    "copy-from": "evacuee",
+    "description": "Somehow, you found yourself in a cave.  Someone else is with you.",
+    "extend": { "professions": [ "wise_one" ] }
+  },
+  {
+    "type": "scenario",
+    "id": "cave_lonesome",
+    "copy-from": "cave_lonesome",
+    "description": "Somehow, you found yourself in a cave.  Seems like you're on your own.",
+    "extend": { "professions": [ "wise_one" ] }
+  },
+  {
+    "type": "scenario",
+    "id": "infected",
+    "copy-from": "infected",
+    "description": "In the chaos and panic of evacuation, you got bitten by something!  You didn't get proper medical care, and now the wound has started turning green.",
+    "extend": { "professions": [ "wise_one" ] }
+  },
+  {
+    "type": "scenario",
+    "id": "hunted_start",
+    "copy-from": "hunted_start",
+    "description": "Since the start of the Cataclysm, something has been hunting you relentlessly.  You can outrun it, but it always seems to find you eventually.  The only escape is for one of you to die.",
+    "extend": { "professions": [ "wise_one" ] }
+  },
+  {
+    "type": "scenario",
+    "id": "fungal_start",
+    "copy-from": "fungal_start",
+    "description": "You feel spores crawling beneath your skin.  It's only a matter of time.",
+    "extend": { "professions": [ "wise_one" ] }
+  },
+  {
+    "type": "scenario",
+    "id": "bordered",
+    "copy-from": "bordered",
+    "description": "You have survived the initial wave of panic, and have achieved (relative) safety in a wilderness.  The only thing that really bothers you is a mysterious sky-high wall seen in the distance.",
+    "extend": { "professions": [ "wise_one" ] }
+  },
+  {
+    "type": "scenario",
+    "id": "ambushed",
+    "copy-from": "ambushed",
+    "description": "It is the winter after zero hour.  As you were scavenging for food and a warm place to stay at, you heard the sound of lots of movement nearby.",
+    "extend": { "professions": [ "wise_one" ] }
+  },
+  {
+    "type": "scenario",
+    "id": "summer_advanced_start",
+    "copy-from": "summer_advanced_start",
+    "description": "A little over a year has passed since the apocalypse started, and you're about to face your second summer in Hell.",
+    "extend": { "professions": [ "wise_one" ] }
+  },
+  {
+    "type": "scenario",
+    "id": "wilderness",
+    "copy-from": "wilderness",
+    "description": "You find yourself amongst trees.  The screaming and the moaning is fainter this far from civilization, but you'd better know what you're doing out here.",
+    "extend": { "professions": [ "wise_one" ] }
+  }
+]

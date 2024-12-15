@@ -1,0 +1,55 @@
+[
+  {
+    "id": "writing_standard",
+    "type": "requirement",
+    "//": "Tools and components for writing.",
+    "tools": [ [ [ "survival_marker", -1 ] ], [ [ "feather", -1 ], [ "homemade_ink", 2 ] ] ]
+  },
+  {
+    "id": "enchanted_components_minor",
+    "type": "requirement",
+    "components": [
+      [
+        [ "mossling_fur", 4 ],
+        [ "demon_chitin_piece", 3 ],
+        [ "dryad_bark", 1 ],
+        [ "glow_dust", 1 ],
+        [ "bracken_eye", 1 ],
+        [ "bulette_pearl", 1 ],
+        [ "gnome_eye", 1 ],
+        [ "dragon_essence", 1 ],
+        [ "mana_pearl", 1 ]
+      ]
+    ]
+  },
+  {
+    "id": "enchanted_components_medium",
+    "type": "requirement",
+    "components": [
+      [
+        [ "glow_dust", 3 ],
+        [ "dryad_bark", 4 ],
+        [ "bracken_eye", 1 ],
+        [ "bulette_pearl", 1 ],
+        [ "gnome_eye", 3 ],
+        [ "dragon_essence", 1 ],
+        [ "mana_pearl", 4 ]
+      ]
+    ]
+  },
+  {
+    "id": "enchanted_components_major",
+    "type": "requirement",
+    "components": [
+      [
+        [ "dryad_bark", 15 ],
+        [ "glow_dust", 5 ],
+        [ "gnome_eye", 10 ],
+        [ "bulette_pearl", 3 ],
+        [ "bracken_eye", 1 ],
+        [ "dragon_essence", 1 ],
+        [ "mana_pearl", 10 ]
+      ]
+    ]
+  }
+]

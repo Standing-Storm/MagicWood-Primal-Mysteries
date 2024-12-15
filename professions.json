@@ -1,0 +1,25 @@
+[
+  {
+    "type": "profession",
+    "id": "wise_one",
+    "name": { "male": "Wise Man", "female": "Wise Woman" },
+    "description": "From your birth, you were in contact with the spirit world.  You were trained in the ways of the spirits and intermediated between them and your tribe.  Now that you're alone, you'll need to contact the spirits of this new place and learn their ways.",
+    "points": 3,
+    "skills": [ { "level": 3, "name": "firstaid" }, { "level": 4, "name": "spellcraft" }, { "level": 1, "name": "survival" } ],
+    "proficiencies": [ "prof_wound_care", "prof_occult_exploration", "prof_thaumatology" ],
+    "items": {
+      "both": {
+        "items": [
+          "straw_basket",
+          "grass_cloak",
+          "shirt_straw",
+          "skirt_grass",
+          "footrags_leather",
+          "grass_keffiyeh",
+          "magical_grimoire_apprentice"
+        ],
+        "entries": [ { "item": "primitive_knife", "container-item": "sheath_birchbark" } ]
+      }
+    }
+  }
+]

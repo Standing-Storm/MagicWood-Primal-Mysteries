@@ -1,0 +1,198 @@
+[
+  {
+    "type": "BOOK",
+    "id": "research_tome_abstract",
+    "name": { "str": "research tome abstract" },
+    "description": "A thick tome for researching bugs, which you're probably doing if you can see this.",
+    "weight": "1587 g",
+    "volume": "1750 ml",
+    "longest_side": "22 cm",
+    "to_hit": -3,
+    "color": "white",
+    "symbol": ",",
+    "material": [ "paper" ],
+    "flags": [ "TRADER_AVOID", "TINDER" ]
+  },
+  {
+    "type": "BOOK",
+    "id": "research_notes_abstract",
+    "name": { "str": "research notes abstract" },
+    "description": "A bunch of loose notes for researching bugs, which you're probably doing if you can see this.",
+    "weight": "50 g",
+    "volume": "15 ml",
+    "longest_side": "22 cm",
+    "to_hit": -3,
+    "color": "white",
+    "symbol": ",",
+    "material": [ "paper" ],
+    "flags": [ "TRADER_AVOID", "TINDER" ]
+  },
+  {
+    "type": "BOOK",
+    "id": "forest_research_materials",
+    "copy-from": "research_tome_abstract",
+    "name": { "str": "mysteries of the forest research materials", "str_pl": "sets of mysteries of the forest research materials" },
+    "description": "A set of documents, scribbed notes, musings, bits of pressed leaves and flowers, and other esoterica for research into magic.  Using this, you might be able to discover a magical formula related to the natural world.",
+    "material": [ "paper", "wood" ],
+    "skill": "spellcraft",
+    "required_level": 4,
+    "max_level": 4,
+    "intelligence": 12,
+    "time": "60 m",
+    "fun": -2
+  },
+  {
+    "type": "BOOK",
+    "id": "earth_research_materials",
+    "copy-from": "research_tome_abstract",
+    "name": { "str": "mysteries of the earth research materials", "str_pl": "mysteries of the sets of earth research materials" },
+    "description": "A set of documents, scribbed notes, musings, polished rocks and samples of soil, and other esoterica for research into magic.  Using this, you might be able to discover a magical formula related to the earth.",
+    "material": [ "paper", "stone" ],
+    "skill": "spellcraft",
+    "required_level": 4,
+    "max_level": 4,
+    "intelligence": 12,
+    "time": "60 m",
+    "fun": -2
+  },
+  {
+    "type": "BOOK",
+    "id": "moon_research_materials",
+    "copy-from": "research_tome_abstract",
+    "name": { "str": "mysteries of the moon research materials", "str_pl": "sets of mysteries of the moon research materials" },
+    "description": "A set of documents, scribbed notes, musings, lunar observations, star charts, and other esoterica for research into magic.  Using this, you might be able to discover a magical formula related to the moon.",
+    "skill": "spellcraft",
+    "required_level": 4,
+    "max_level": 4,
+    "intelligence": 12,
+    "time": "60 m",
+    "fun": -2
+  },
+  {
+    "type": "BOOK",
+    "id": "sky_research_materials",
+    "copy-from": "research_tome_abstract",
+    "name": { "str": "mysteries of the sky research materials", "str_pl": "sets of mysteries of the sky research materials" },
+    "description": "A set of documents, scribbed notes, musings, weather observations, and other esoterica for research into magic.  Using this, you might be able to discover a magical formula related to the sky.",
+    "skill": "spellcraft",
+    "required_level": 4,
+    "max_level": 4,
+    "intelligence": 12,
+    "time": "60 m",
+    "fun": -2
+  },
+  {
+    "type": "BOOK",
+    "id": "sea_research_materials",
+    "copy-from": "research_tome_abstract",
+    "name": { "str": "mysteries of the sea research materials", "str_pl": "sets of mysteries of the sea research materials" },
+    "description": "A set of documents, scribbed notes, musings, tidal records, and other esoterica for research into magic.  Using this, you might be able to discover a magical formula related to the sea.",
+    "skill": "spellcraft",
+    "required_level": 4,
+    "max_level": 4,
+    "intelligence": 12,
+    "time": "60 m",
+    "fun": -2
+  },
+  {
+    "type": "BOOK",
+    "id": "used_research_materials",
+    "copy-from": "research_tome_abstract",
+    "name": { "str": "old research materials", "str_pl": "sets of old research materials" },
+    "description": "A set of documents, scribbed notes, and other esoterica you used for your research into magic.  Unfortunately it was a dead end, but you never know when it might be useful in the future."
+  },
+  {
+    "type": "BOOK",
+    "id": "occult_research_intro",
+    "copy-from": "research_notes_abstract",
+    "name": { "str": "rudimentary occult research results", "str_pl": "sets of rudimentary occult research results" },
+    "description": "Jotted down thoughts about the hidden things of the world.  Nothing here is particularly profound, and you'll probably not need to consult this again."
+  },
+  {
+    "type": "BOOK",
+    "id": "occult_research_minor",
+    "copy-from": "research_notes_abstract",
+    "name": { "str": "apprentice occult research results", "str_pl": "sets of apprentice occult research results" },
+    "description": "Musings and tangents mixed with a few real insights.  You know there's power to be grasped out there, if you can just find out how to do it."
+  },
+  {
+    "type": "BOOK",
+    "id": "used_occult_notes",
+    "copy-from": "research_notes_abstract",
+    "name": { "str": "old occult research notes", "str_pl": "sets of old occult research notes" },
+    "description": "A set of your notes about the occult.  You've already gotten most of the value you can out of these, but you never know when it might be useful in the future."
+  },
+  {
+    "type": "BOOK",
+    "id": "item_astrological_observations",
+    "copy-from": "research_notes_abstract",
+    "name": { "str": "astrological observations", "str_pl": "sets of astrological observations" },
+    "description": "A study of the movements of the stars and planets and of their relation to each other."
+  },
+  {
+    "type": "BOOK",
+    "id": "item_weather_observations_rain",
+    "copy-from": "research_notes_abstract",
+    "name": { "str": "rain observations", "str_pl": "sets of rain observations" },
+    "description": "A study of falling rain and the patterns of the lightning."
+  },
+  {
+    "type": "BOOK",
+    "id": "item_weather_observations_clouds",
+    "copy-from": "research_notes_abstract",
+    "name": { "str": "cloud observations", "str_pl": "sets of cloud observations" },
+    "description": "A study of the movements of the clouds and their shapes."
+  },
+  {
+    "type": "BOOK",
+    "id": "item_weather_observations_sun",
+    "copy-from": "research_notes_abstract",
+    "name": { "str": "solar observations", "str_pl": "sets of solar observations" },
+    "description": "A study of the angles of the sun and the strength of the sunbeams."
+  },
+  {
+    "type": "BOOK",
+    "id": "item_tidal_observations",
+    "copy-from": "research_notes_abstract",
+    "name": { "str": "tidal observations", "str_pl": "sets of tidal observations" },
+    "description": "A study of the tidal patterns and the flow of currents."
+  },
+  {
+    "type": "BOOK",
+    "id": "magical_grimoire_apprentice",
+    "name": { "str": "apprentice's grimoire", "str_pl": "copies of apprentice's grimoire" },
+    "description": "A compilation of your elementary magical observations.  This would be extremely useful as a reference material.",
+    "weight": "920 g",
+    "volume": "750 ml",
+    "material": [ "paper" ],
+    "looks_like": "cookbook",
+    "symbol": "?",
+    "color": "light_gray",
+    "qualities": [ [ "MAGICAL_RESEARCH", 1 ] ],
+    "skill": "spellcraft",
+    "required_level": 3,
+    "max_level": 4,
+    "intelligence": 11,
+    "time": "60 m",
+    "fun": -2
+  },
+  {
+    "type": "BOOK",
+    "id": "magical_grimoire_journeyman",
+    "name": { "str": "journeyman's journeyman", "str_pl": "copies of journeyman's grimoire" },
+    "description": "A compilation of your elementary magical observations.  This would be extremely useful as a reference material.",
+    "weight": "1250 g",
+    "volume": "1000 ml",
+    "material": [ "paper" ],
+    "looks_like": "cookbook",
+    "symbol": "?",
+    "color": "light_gray",
+    "qualities": [ [ "MAGICAL_RESEARCH", 2 ] ],
+    "skill": "spellcraft",
+    "required_level": 5,
+    "max_level": 6,
+    "intelligence": 12,
+    "time": "60 m",
+    "fun": -2
+  }
+]

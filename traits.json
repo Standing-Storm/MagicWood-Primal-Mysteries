@@ -1,0 +1,152 @@
+[
+  {
+    "type": "mutation",
+    "id": "FOREST_INITIATE",
+    "name": "Initiate of the Forest",
+    "points": 0,
+    "description": "You have taken the first steps into the mysteries of the deep woods.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false
+  },
+  {
+    "type": "mutation",
+    "id": "FOREST_ATTUNED",
+    "name": "Attuned to the Forest",
+    "points": 0,
+    "description": "You have answered the call of the deep wood.  You are attuned to the mysteries of the forest and may use no other.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [
+      "SEA_INITIATE",
+      "SEA_ATTUNED",
+      "EARTH_INITIATE",
+      "EARTH_ATTUNED",
+      "SKY_INITIATE",
+      "SKY_ATTUNED",
+      "MOON_INITIATE",
+      "MOON_ATTUNED"
+    ]
+  },
+  {
+    "type": "mutation",
+    "id": "SEA_INITIATE",
+    "name": "Initiate of the Sea",
+    "points": 0,
+    "description": "You have taken the first steps into the mysteries of the sea's depths.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false
+  },
+  {
+    "type": "mutation",
+    "id": "SEA_ATTUNED",
+    "name": "Attuned to the Sea",
+    "points": 0,
+    "description": "Your heartbeat echoes to the pounding of the waves on the shore.  You are attuned to the mysteries of the sea and may use no other.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [
+      "FOREST_INITIATE",
+      "FOREST_ATTUNED",
+      "EARTH_INITIATE",
+      "EARTH_ATTUNED",
+      "SKY_INITIATE",
+      "SKY_ATTUNED",
+      "MOON_INITIATE",
+      "MOON_ATTUNED"
+    ]
+  },
+  {
+    "type": "mutation",
+    "id": "EARTH_INITIATE",
+    "name": "Initiate of the Earth",
+    "points": 0,
+    "description": "You have taken the first steps into the mysteries of the living earth.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false
+  },
+  {
+    "type": "mutation",
+    "id": "EARTH_ATTUNED",
+    "name": "Attuned to the Earth",
+    "points": 0,
+    "description": "The mountains are your kin and the soil is your bed.  You are attuned to the mysteries of the earth and may use no other.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [
+      "FOREST_INITIATE",
+      "FOREST_ATTUNED",
+      "SEA_INITIATE",
+      "SEA_ATTUNED",
+      "SKY_INITIATE",
+      "SKY_ATTUNED",
+      "MOON_INITIATE",
+      "MOON_ATTUNED"
+    ]
+  },
+  {
+    "type": "mutation",
+    "id": "SKY_INITIATE",
+    "name": "Initiate of the Sky",
+    "points": 0,
+    "description": "You have taken the first steps into the mysteries of the open skies.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false
+  },
+  {
+    "type": "mutation",
+    "id": "SKY_ATTUNED",
+    "name": "Attuned to the Sky",
+    "points": 0,
+    "description": "Distant thunder resounds in your ears.  You are attuned to the mysteries of the sky and may use no other.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [
+      "FOREST_INITIATE",
+      "FOREST_ATTUNED",
+      "SEA_INITIATE",
+      "SEA_ATTUNED",
+      "EARTH_INITIATE",
+      "EARTH_ATTUNED",
+      "MOON_INITIATE",
+      "MOON_ATTUNED"
+    ]
+  },
+  {
+    "type": "mutation",
+    "id": "MOON_INITIATE",
+    "name": "Initiate of the Moon",
+    "points": 0,
+    "description": "You have taken the first steps into the mysteries of the silver moon.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false
+  },
+  {
+    "type": "mutation",
+    "id": "MOON_ATTUNED",
+    "name": "Attuned to the Moon",
+    "points": 0,
+    "description": "Your eyes are filled with silvery light.  You are attuned to the mysteries of the moon and may use no other.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [
+      "FOREST_INITIATE",
+      "FOREST_ATTUNED",
+      "SEA_INITIATE",
+      "SEA_ATTUNED",
+      "EARTH_INITIATE",
+      "EARTH_ATTUNED",
+      "SKY_INITIATE",
+      "SKY_ATTUNED"
+    ]
+  }
+]

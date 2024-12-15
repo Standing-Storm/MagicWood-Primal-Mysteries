@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "magicwood_primal_mysteries",
+    "name": "MagicWood: Primal Mysteries",
+    "authors": [ "Standing-Storm" ],
+    "maintainers": [ "KorGgenT" ],
+    "description": "A more thematic way to learn and use Magiclysm spells for Innawood games.",
+    "category": "misc_additions",
+    "dependencies": [ "magiclysm", "innawood" ]
+  }
+]
