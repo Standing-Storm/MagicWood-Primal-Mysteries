@@ -2,12 +2,13 @@
 
 This is a modmod for Magiclysm and Innawood, taking bits of Magiclysm's magic and setting and making magic a more primitive affair. No longer can you just stroll up to the Forge of Wonders with 1000 hunks of meat and buy an archmage's library, now you have to research magic yourself, as befits the Innawood philosophy.
 
-Magic is divided into five paths: 
-- Earth
-- Forest
-- Moon
-- Sea
-- Sky
+Magic is divided into six paths, each of which has a gross aspect and a subtle aspect: 
+- Earth (Gross: Stone, dirt, soil. Subtle: Resilience, eternity)
+- Forest (Gross: Plants, animals. Subtle: Life, growth, creativity)
+- Moon (Gross: Darkness, night. Subtle: Change. fear)
+- Sea (Gross: Water, sea life. Subtle: Wrath, connections)
+- Sky (Gross: Weather, wind, birds. Subtle: Movement, freedom)
+- Sun (Gross: Light, heat, Subtle: Leadership, revelation)
 
 You can freely use low-power spells from all of those paths, but if you want the heights of power, you have to fully commit to it, giving up the usage of enchantments from each of the other paths. 
 
