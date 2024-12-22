@@ -16,6 +16,6 @@ Mana does not exist. Its discovery will come millennia in the future. The powers
 
 Gaining actual magic is a long process. First you have do the research into its existence, then study the tides, the earth, the woods, the weather, and the night skies. after which you can combine these observations in various ways (like "Forest + Sea" or "Earth + Moon + Sky") to try to discover minor magics. A successful discovery will teach you how to make single-use charms that can accomplish various effects like starting a fire instantly, letting you know the exact time, or stunning nearby enemies with a thundeclap. But be careful--not all research is equally fruitful. 
 
-When you've discovered enough charms, 
+When you've discovered enough charms, you can continue your reseach into the deeper mysteries.
 
 Currently WIP.  More to come.
